@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<p> My Name is Lisa Weber.
-			<div id="photo" style="align:center;">
+			<div id="photo" style="align:center; width:50%; height:50%;">
          		<img src="my_bio_photo.jpg" alt="Picture of Lisa Weber">
       		</div>
 

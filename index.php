@@ -8,6 +8,10 @@
 	</head>
 	<body>
 		<p> My Name is Lisa Weber.
+			<div id="photo" style="align:center;">
+         		<img src="my_bio_photo.jpg" alt="Picture of Lisa Weber">
+      		</div>
+
 			<br>
 			I am currently a software developer at Liberty Mutual. I graduated in 2011 from Penn State with a B.S. in Mechanical Engineering and a minor in Spanish. 
 			<br>

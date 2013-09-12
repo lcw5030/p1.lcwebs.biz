@@ -2,9 +2,12 @@
 <html>
 	<head>
 		<title>Dynamic Web Applications</title>
+		<link rel="stylesheet" type="text/css" href="common.css">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 	</head>
 	<body>
-		<p class="bodyText"> My Name is Lisa Weber.
+		<p> My Name is Lisa Weber.
 			<br>
 			I am currently a software developer at Liberty Mutual. I graduated in 2011 from Penn State with a B.S. in Mechanical Engineering and a minor in Spanish. 
 			<br>
@@ -13,7 +16,7 @@
 			<br>
 			<br>
 			<br>
-		<p class="bodyText">
+		<p class>
 			The code editor I am using is Sublime Text
 		</p>
 	</body>

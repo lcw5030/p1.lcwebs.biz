@@ -6,7 +6,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	</head>
 	<body>
-		<p> My Name is Lisa Weber.
+		 My Name is Lisa Weber.
 			<div id="photo">
          		<img src="my_bio_photo.jpg" alt="Picture of Lisa Weber">
       		</div>
@@ -17,6 +17,5 @@
 			In my free time I enjoy volunteering at the SPCA, watching football, and playing volleyball. I am most passionate about running and have completed two half-marathons and a full marathon this year. No matter what stress I am going through at the time, a nice run never fails to help clear my head.
 			<br>
 			The code editor I am using is Sublime Text 2
-		</p>
 	</body>
 </html>

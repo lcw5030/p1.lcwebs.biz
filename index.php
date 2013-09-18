@@ -16,11 +16,6 @@
 			<br>
 			In my free time I enjoy volunteering at the SPCA, watching football, and playing volleyball. I am most passionate about running and have completed two half-marathons and a full marathon this year. No matter what stress I am going through at the time, a nice run never fails to help clear my head.
 			<br>
-		</p>
-			<br>
-			<br>
-			<br>
-		<p class>
 			The code editor I am using is Sublime Text 2
 		</p>
 	</body>
